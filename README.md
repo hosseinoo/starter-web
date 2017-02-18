@@ -17,3 +17,7 @@ As stated above, main purpose blah blah.
 This is a simple web project, deplyment can be on any web server or even local file system
 
 ## How to Contribute
+
+## Copyright
+
+2014 Git.Training.
